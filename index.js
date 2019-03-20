@@ -1,3 +1,4 @@
-var number = 5
+var 2, 3
 
- number += 3 // 8
+function(add) {
+  expect(add(2, 3)).toEqual(5)
