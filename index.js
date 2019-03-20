@@ -1,4 +1,4 @@
 var 2, 3
 
-function(add) {
+function(2, 3) {
   expect(add(2, 3)).toEqual(5)
